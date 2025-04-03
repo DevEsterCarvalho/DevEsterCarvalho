@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @DevEsterCarvalho e estudo Análise e Desenvolvimento de Sistemas pela FIAP.
-- 👀 I’m interested in vagas de estágio em desenvolvimento.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Java, Python, Kotlin e conceitos de POO.
-- 💞️ Me interesso muito por tecnologia e procuro aprender uma coisa nova todos os dias. Busco colaborar em um trabalho que me desafie e seja dinamico. 
+- 👋 Olá, sou @DevEsterCarvalho e sou formada em Análise e Desenvolvimento de Sistemas pela FIAP.
+- 👀 Tenho interesse em vagas de desenvolvimento Front-end.
+- 🌱 Atualmente tenho conhecimentos HTML, CSS, JavaScript, React, Kotlin e também em .NET, C# e conceitos de POO.
+- 💞️ Me interesso muito por tecnologia e procuro aprender uma coisa nova todos os dias. Busco colaborar em um trabalho que me desafie e seja dinâmico.
 - 📫 Para entrar em contato comigo é através do: estercarvalho205@gmail.com
 
 <!---
